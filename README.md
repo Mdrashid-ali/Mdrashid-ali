@@ -87,10 +87,10 @@ I'm a recent **Artificial Intelligence and Computing graduate** with 4 AWS certi
 - **Academic Projects:** Gym Management System (Java), Inventory System (Python), IoT Smart Agriculture
 
 ### **Higher Secondary Education (+2 Science)**
-**DAV College, Lalitpur** | *2021 - 2023* | **CGPA: 3.15/4.0**
+**VISWA NIKETAN, Tripureshwor** | *2021 - 2023* | **CGPA: 3.40/4.0**
 
 ### **Secondary Education Examination (SEE)**
-**Nepal Police School** | *2020* | **GPA: 3.95/4.0**
+**Green Land School** | *2020* | **GPA: 3.35/4.0**
 
 ---
 
@@ -143,22 +143,13 @@ I'm a recent **Artificial Intelligence and Computing graduate** with 4 AWS certi
 - **Location:** Lokanthali-01, Madhyapur Thimi, Bhaktapur, Nepal
 
 ---
-
-## 📊 GitHub Stats
-
-![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=BikashRaj&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BikashRaj&layout=compact&theme=radical)
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to discussing new projects, innovative ideas, or opportunities for collaboration in software development and AI fields.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikash-raj)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:chaurasiyabkraj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-black?style=for-the-badge&logo=github)](https://github.com/BikashRaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdrashid-ali-b75658371)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mdrashidali937@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-black?style=for-the-badge&logo=github)](https://github.com/Mdrashid-ali)
 
 ---
 
