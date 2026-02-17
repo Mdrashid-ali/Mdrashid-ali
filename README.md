@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm MD. Raashid Fazeel
+# 👋 Hi there, I'm MD. Rashid Fazeel
 
 🎯 AI & Computing Graduate | 💻 Full-Stack Developer | ☁️ Machine Learning Enthusiast
 
